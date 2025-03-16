@@ -7,7 +7,6 @@ Este proyecto es una aplicación web para sortear amigos secretos. Permite a los
 ```
 .
 ├── app.js
-├── Hola mundo
 ├── index.html
 ├── style.css
 └── assets/
