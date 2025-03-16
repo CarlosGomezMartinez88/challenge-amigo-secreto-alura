@@ -16,7 +16,6 @@ Este proyecto es una aplicación web para sortear amigos secretos. Permite a los
 ```
 
 - `app.js`: Contiene la lógica de la aplicación.
-- `Hola mundo`: Archivo de texto con un mensaje de saludo.
 - `index.html`: Contiene la estructura HTML de la aplicación.
 - `style.css`: Contiene los estilos CSS de la aplicación.
 - `assets/`: Carpeta que contiene las imágenes utilizadas en la aplicación.
@@ -54,4 +53,4 @@ Valida el valor del input para asegurarse de que no esté vacío.
 
 ## Autor
 
-Este proyecto fue desarrollado por [tu nombre].
+Este proyecto fue desarrollado por Carlos Gomez.
